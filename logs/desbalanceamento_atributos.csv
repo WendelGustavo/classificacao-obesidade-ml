@@ -1,0 +1,10 @@
+Atributo,Valor majoritário,% majoritário,Valor mais raro,Nº do mais raro,IR (maior/menor),Entropia normalizada
+SMOKE,no,97.9,yes,44,47.0,0.146
+SCC,no,95.5,yes,96,21.0,0.267
+CAEC,Sometimes,83.6,no,51,34.6,0.419
+MTRANS,Public_Transportation,74.8,Bike,7,225.7,0.429
+FAVC,yes,88.4,no,245,7.6,0.518
+CALC,Sometimes,66.4,Always,1,1401.0,0.541
+family_history_with_overweight,yes,81.8,no,385,4.5,0.685
+NObeyesdad,Obesity_Type_I,16.6,Insufficient_Weight,272,1.3,0.998
+Gender,Male,50.6,Female,1043,1.0,1.0

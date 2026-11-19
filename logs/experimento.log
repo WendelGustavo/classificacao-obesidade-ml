@@ -1,0 +1,76 @@
+2026-11-20 00:10:07 | Dataset carregado: ObesityDataSet_raw_and_data_sinthetic.csv, 2111 linhas e 17 colunas
+2026-11-20 00:10:16 | Pré-processamento: 2111 para 2087 linhas, 24 duplicatas removidas, 20 preditores
+2026-11-20 00:10:16 | P1_completo: 2087 linhas e 20 preditores salvos em data/processed/obesidade_P1_completo.csv
+2026-11-20 00:10:16 | P2_so_habitos: 2087 linhas e 18 preditores salvos em data/processed/obesidade_P2_so_habitos.csv
+2026-11-20 00:10:16 | Variação P1_completo: 2087 instâncias e 20 preditores
+2026-11-20 00:10:16 | P1_completo | Árvore de Decisão  | fold 01 | acc=0.9569 f1=0.9564 treino=0.0143s
+2026-11-20 00:10:16 | P1_completo | Árvore de Decisão  | fold 02 | acc=0.9234 f1=0.9187 treino=0.0141s
+2026-11-20 00:10:16 | P1_completo | Árvore de Decisão  | fold 03 | acc=0.9234 f1=0.9204 treino=0.0277s
+2026-11-20 00:10:16 | P1_completo | Árvore de Decisão  | fold 04 | acc=0.9282 f1=0.9261 treino=0.0134s
+2026-11-20 00:10:16 | P1_completo | Árvore de Decisão  | fold 05 | acc=0.9569 f1=0.9554 treino=0.0210s
+2026-11-20 00:10:16 | P1_completo | Árvore de Decisão  | fold 06 | acc=0.9617 f1=0.9604 treino=0.0285s
+2026-11-20 00:10:16 | P1_completo | Árvore de Decisão  | fold 07 | acc=0.9378 f1=0.9341 treino=0.0329s
+2026-11-20 00:10:16 | P1_completo | Árvore de Decisão  | fold 08 | acc=0.9375 f1=0.9333 treino=0.0127s
+2026-11-20 00:10:16 | P1_completo | Árvore de Decisão  | fold 09 | acc=0.9519 f1=0.9505 treino=0.0133s
+2026-11-20 00:10:16 | P1_completo | Árvore de Decisão  | fold 10 | acc=0.9519 f1=0.9515 treino=0.0159s
+2026-11-20 00:10:17 | P1_completo | Random Forest      | fold 01 | acc=0.9809 f1=0.9795 treino=0.9585s
+2026-11-20 00:10:18 | P1_completo | Random Forest      | fold 02 | acc=0.9378 f1=0.9370 treino=0.9906s
+2026-11-20 00:10:19 | P1_completo | Random Forest      | fold 03 | acc=0.9234 f1=0.9195 treino=0.7838s
+2026-11-20 00:10:20 | P1_completo | Random Forest      | fold 04 | acc=0.9474 f1=0.9449 treino=0.9655s
+2026-11-20 00:10:21 | P1_completo | Random Forest      | fold 05 | acc=0.9617 f1=0.9602 treino=0.4670s
+2026-11-20 00:10:21 | P1_completo | Random Forest      | fold 06 | acc=0.9617 f1=0.9605 treino=0.4519s
+2026-11-20 00:10:22 | P1_completo | Random Forest      | fold 07 | acc=0.9330 f1=0.9305 treino=0.4717s
+2026-11-20 00:10:22 | P1_completo | Random Forest      | fold 08 | acc=0.9471 f1=0.9455 treino=0.4621s
+2026-11-20 00:10:23 | P1_completo | Random Forest      | fold 09 | acc=0.9663 f1=0.9653 treino=0.4773s
+2026-11-20 00:10:23 | P1_completo | Random Forest      | fold 10 | acc=0.9327 f1=0.9298 treino=0.4608s
+2026-11-20 00:10:23 | P1_completo | KNN (k=5)          | fold 01 | acc=0.7799 f1=0.7636 treino=0.0054s
+2026-11-20 00:10:23 | P1_completo | KNN (k=5)          | fold 02 | acc=0.8038 f1=0.7913 treino=0.0053s
+2026-11-20 00:10:23 | P1_completo | KNN (k=5)          | fold 03 | acc=0.7560 f1=0.7434 treino=0.0058s
+2026-11-20 00:10:23 | P1_completo | KNN (k=5)          | fold 04 | acc=0.7799 f1=0.7727 treino=0.0053s
+2026-11-20 00:10:23 | P1_completo | KNN (k=5)          | fold 05 | acc=0.7943 f1=0.7776 treino=0.0047s
+2026-11-20 00:10:23 | P1_completo | KNN (k=5)          | fold 06 | acc=0.7847 f1=0.7762 treino=0.0051s
+2026-11-20 00:10:23 | P1_completo | KNN (k=5)          | fold 07 | acc=0.7751 f1=0.7603 treino=0.0071s
+2026-11-20 00:10:23 | P1_completo | KNN (k=5)          | fold 08 | acc=0.7933 f1=0.7878 treino=0.0057s
+2026-11-20 00:10:23 | P1_completo | KNN (k=5)          | fold 09 | acc=0.8029 f1=0.7921 treino=0.0054s
+2026-11-20 00:10:23 | P1_completo | KNN (k=5)          | fold 10 | acc=0.7740 f1=0.7584 treino=0.0055s
+2026-11-20 00:10:23 | Variação P2_so_habitos: 2087 instâncias e 18 preditores
+2026-11-20 00:10:23 | P2_so_habitos | Árvore de Decisão  | fold 01 | acc=0.7368 f1=0.7251 treino=0.0081s
+2026-11-20 00:10:23 | P2_so_habitos | Árvore de Decisão  | fold 02 | acc=0.7943 f1=0.7918 treino=0.0099s
+2026-11-20 00:10:23 | P2_so_habitos | Árvore de Decisão  | fold 03 | acc=0.6986 f1=0.6862 treino=0.0089s
+2026-11-20 00:10:23 | P2_so_habitos | Árvore de Decisão  | fold 04 | acc=0.7081 f1=0.6943 treino=0.0129s
+2026-11-20 00:10:23 | P2_so_habitos | Árvore de Decisão  | fold 05 | acc=0.7751 f1=0.7668 treino=0.0092s
+2026-11-20 00:10:24 | P2_so_habitos | Árvore de Decisão  | fold 06 | acc=0.7416 f1=0.7450 treino=0.0117s
+2026-11-20 00:10:24 | P2_so_habitos | Árvore de Decisão  | fold 07 | acc=0.6938 f1=0.6840 treino=0.0089s
+2026-11-20 00:10:24 | P2_so_habitos | Árvore de Decisão  | fold 08 | acc=0.7644 f1=0.7579 treino=0.0100s
+2026-11-20 00:10:24 | P2_so_habitos | Árvore de Decisão  | fold 09 | acc=0.7740 f1=0.7651 treino=0.0093s
+2026-11-20 00:10:24 | P2_so_habitos | Árvore de Decisão  | fold 10 | acc=0.7308 f1=0.7238 treino=0.0083s
+2026-11-20 00:10:24 | P2_so_habitos | Random Forest      | fold 01 | acc=0.8134 f1=0.8077 treino=0.5902s
+2026-11-20 00:10:25 | P2_so_habitos | Random Forest      | fold 02 | acc=0.8230 f1=0.8190 treino=0.6129s
+2026-11-20 00:10:25 | P2_so_habitos | Random Forest      | fold 03 | acc=0.7799 f1=0.7727 treino=0.5893s
+2026-11-20 00:10:26 | P2_so_habitos | Random Forest      | fold 04 | acc=0.7751 f1=0.7720 treino=0.4478s
+2026-11-20 00:10:26 | P2_so_habitos | Random Forest      | fold 05 | acc=0.8278 f1=0.8220 treino=0.4290s
+2026-11-20 00:10:27 | P2_so_habitos | Random Forest      | fold 06 | acc=0.8182 f1=0.8203 treino=0.4369s
+2026-11-20 00:10:27 | P2_so_habitos | Random Forest      | fold 07 | acc=0.7799 f1=0.7692 treino=0.4300s
+2026-11-20 00:10:28 | P2_so_habitos | Random Forest      | fold 08 | acc=0.8365 f1=0.8309 treino=0.4569s
+2026-11-20 00:10:28 | P2_so_habitos | Random Forest      | fold 09 | acc=0.8173 f1=0.8096 treino=0.4341s
+2026-11-20 00:10:29 | P2_so_habitos | Random Forest      | fold 10 | acc=0.7788 f1=0.7676 treino=0.4522s
+2026-11-20 00:10:29 | P2_so_habitos | KNN (k=5)          | fold 01 | acc=0.6986 f1=0.6783 treino=0.0044s
+2026-11-20 00:10:29 | P2_so_habitos | KNN (k=5)          | fold 02 | acc=0.7464 f1=0.7351 treino=0.0061s
+2026-11-20 00:10:29 | P2_so_habitos | KNN (k=5)          | fold 03 | acc=0.6986 f1=0.6861 treino=0.0053s
+2026-11-20 00:10:29 | P2_so_habitos | KNN (k=5)          | fold 04 | acc=0.7512 f1=0.7431 treino=0.0055s
+2026-11-20 00:10:29 | P2_so_habitos | KNN (k=5)          | fold 05 | acc=0.7368 f1=0.7200 treino=0.0053s
+2026-11-20 00:10:29 | P2_so_habitos | KNN (k=5)          | fold 06 | acc=0.7177 f1=0.7072 treino=0.0051s
+2026-11-20 00:10:29 | P2_so_habitos | KNN (k=5)          | fold 07 | acc=0.7225 f1=0.7059 treino=0.0053s
+2026-11-20 00:10:29 | P2_so_habitos | KNN (k=5)          | fold 08 | acc=0.7260 f1=0.7166 treino=0.0053s
+2026-11-20 00:10:29 | P2_so_habitos | KNN (k=5)          | fold 09 | acc=0.7356 f1=0.7305 treino=0.0052s
+2026-11-20 00:10:29 | P2_so_habitos | KNN (k=5)          | fold 10 | acc=0.7260 f1=0.7064 treino=0.0051s
+2026-11-20 00:10:30 | P1_completo | melhor algoritmo: Random Forest | melhor classe: Obesity_Type_III | pior classe: Normal_Weight
+2026-11-20 00:10:31 | P1_completo | pior algoritmo: KNN (k=5) | melhor classe: Obesity_Type_III | pior classe: Normal_Weight
+2026-11-20 00:10:31 | P2_so_habitos | melhor algoritmo: Random Forest | melhor classe: Obesity_Type_III | pior classe: Normal_Weight
+2026-11-20 00:10:32 | P2_so_habitos | pior algoritmo: KNN (k=5) | melhor classe: Obesity_Type_III | pior classe: Normal_Weight
+2026-11-20 00:10:34 | Modelo final P1_completo | Árvore de Decisão | 0.0127s | P1_completo_arvore_decisao.joblib
+2026-11-20 00:10:35 | Modelo final P1_completo | Random Forest | 0.5200s | P1_completo_random_forest.joblib
+2026-11-20 00:10:35 | Modelo final P1_completo | KNN (k=5) | 0.0057s | P1_completo_knn.joblib
+2026-11-20 00:10:35 | Modelo final P2_so_habitos | Árvore de Decisão | 0.0082s | P2_so_habitos_arvore_decisao.joblib
+2026-11-20 00:10:35 | Modelo final P2_so_habitos | Random Forest | 0.4753s | P2_so_habitos_random_forest.joblib
+2026-11-20 00:10:35 | Modelo final P2_so_habitos | KNN (k=5) | 0.0059s | P2_so_habitos_knn.joblib

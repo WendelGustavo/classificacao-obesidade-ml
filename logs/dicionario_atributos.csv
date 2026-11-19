@@ -1,0 +1,18 @@
+Atributo,Descrição,Tipo (pandas),Tipo,Intervalo / conjunto de valores,Nº valores distintos,Valores faltando
+Gender,Gênero,object,Categórico binário,"{Male, Female}",2,0
+Age,Idade (anos),float64,Numérico contínuo,[14; 61],1402,0
+Height,Altura (m),float64,Numérico contínuo,[1.45; 1.98],1574,0
+Weight,Peso (kg),float64,Numérico contínuo,[39; 173],1525,0
+family_history_with_overweight,Histórico familiar de sobrepeso,object,Categórico binário,"{yes, no}",2,0
+FAVC,Consumo frequente de alimentos calóricos,object,Categórico binário,"{yes, no}",2,0
+FCVC,"Frequência de consumo de vegetais (1 nunca, 2 às vezes, 3 sempre)",float64,Numérico ordinal,[1; 3],810,0
+NCP,Número de refeições principais por dia,float64,Numérico ordinal,[1; 4],635,0
+CAEC,Consumo de alimentos entre as refeições,object,Categórico ordinal,"{Sometimes, Frequently, Always, no}",4,0
+SMOKE,Hábito de fumar,object,Categórico binário,"{no, yes}",2,0
+CH2O,"Consumo diário de água (1 menos de 1 L, 2 entre 1 e 2 L, 3 mais de 2 L)",float64,Numérico ordinal,[1; 3],1268,0
+SCC,Monitoramento das calorias ingeridas,object,Categórico binário,"{no, yes}",2,0
+FAF,"Atividade física (0 nenhuma, 1 de 1 a 2, 2 de 2 a 4, 3 de 4 a 5 dias por semana)",float64,Numérico ordinal,[0; 3],1190,0
+TUE,"Uso de dispositivos eletrônicos (0 de 0 a 2 h, 1 de 3 a 5 h, 2 mais de 5 h)",float64,Numérico ordinal,[0; 2],1129,0
+CALC,Consumo de álcool,object,Categórico ordinal,"{Sometimes, no, Frequently, Always}",4,0
+MTRANS,Meio de transporte habitual,object,Categórico nominal,"{Public_Transportation, Automobile, Walking, Motorbike, Bike}",5,0
+NObeyesdad,Nível de obesidade (atributo classe),object,Categórico nominal,"{Obesity_Type_I, Obesity_Type_III, Obesity_Type_II, Overweight_Level_I, Overweight_Level_II, Normal_Weight, Insufficient_Weight}",7,0

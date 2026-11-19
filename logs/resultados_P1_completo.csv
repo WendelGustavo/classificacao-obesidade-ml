@@ -1,0 +1,4 @@
+Algoritmo,Acurácia,Precisão,Recall,F-Measure,Tempo de processamento (s)
+Árvore de Decisão,94.30%,0.9422,0.9407,0.9407,0.0194
+Random Forest,94.92%,0.9492,0.9471,0.9473,0.6489
+KNN (k=5),78.44%,0.7777,0.7792,0.7724,0.0055
